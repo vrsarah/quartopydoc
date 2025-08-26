@@ -3,6 +3,8 @@
   "locale": "en_US",
   "platform": "4.3.3",
   "metadata": {
+    "appmode": "quarto-static",
+    "primary_rmd": "mydoc.qmd",
     "primary_html": null,
     "content_category": null,
     "has_parameters": false
