@@ -3,8 +3,6 @@
   "locale": "en_US",
   "platform": "4.3.3",
   "metadata": {
-    "appmode": "shiny",
-    "primary_rmd": "app.R",
     "primary_html": null,
     "content_category": null,
     "has_parameters": false
